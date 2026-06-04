@@ -1,0 +1,60 @@
+[
+  {
+    "name": "iwan",
+    "age": 19,
+    "id_number": "214",
+    "faculty": "fkct",
+    "year": 3,
+    "grades": [
+      {
+        "subject": "matematika",
+        "grade": 6.0
+      },
+      {
+        "subject": "matematika",
+        "grade": 4.0
+      }
+    ],
+    "enrolled_date": "2025-12-28"
+  },
+  {
+    "name": "petyr",
+    "age": 20,
+    "id_number": "300",
+    "faculty": "matematika",
+    "year": 5,
+    "grades": [],
+    "enrolled_date": "2025-12-28",
+    "thesis_topic": "izkustven intelekt",
+    "type": "graduate"
+  },
+  {
+    "name": "georgi",
+    "age": 19,
+    "id_number": "2444",
+    "faculty": "kko",
+    "year": 4,
+    "grades": [
+      {
+        "subject": "programirane",
+        "grade": 6.0
+      },
+      {
+        "subject": "matematika",
+        "grade": 3.0
+      }
+    ],
+    "enrolled_date": "2025-12-28"
+  },
+  {
+    "name": "maria",
+    "age": 30,
+    "id_number": "4444",
+    "faculty": "fkst",
+    "year": 3,
+    "grades": [],
+    "enrolled_date": "2026-01-22",
+    "thesis_topic": "izkustven intelekt",
+    "type": "graduate"
+  }
+]
